@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Perl programming related to the unordered nature of Perl hashes.  The `bug.pl` file shows a `foreach` loop iterating over hash keys, resulting in unpredictable output.  The solution, `bugSolution.pl`, presents an approach to address this if a specific key order is needed.
